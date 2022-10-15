@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mainAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1cd7ce0-2375-456f-9483-168d3d693f88</testCaseGuid>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>130a11f7-9da3-419b-a400-02ac1e2389ea</id>
+      <masked>false</masked>
+      <name>trfAmt</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_RM_CustomInputGroup---textInput---1X446 form-control</name>
+   <tag></tag>
+   <elementGuidId>5bc4132e-057f-4b2d-a5d6-e14198a2fd41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.CustomInputGroup---textInput---1X446.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CustomInputGroup---textInput---1X446 form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;row TransferOverseaTypeContainer---container---3myRn&quot;]/div[@class=&quot;TransferOverseaTypeContainer---fixContainer---24R7Q&quot;]/div[@class=&quot;col-xs-12 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-xs-12 undefined&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;CustomInputGroup---container---2Lt0m&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-row&quot;]/div[@class=&quot;flex-col-xs-12 flex-col-sm flex-col-md flex-col-lg-5&quot;]/span[@class=&quot;input-group&quot;]/input[@class=&quot;CustomInputGroup---textInput---1X446 form-control&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div/div/form/div/div/div/div/div/div/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number']</value>
+   </webElementXpaths>
+</WebElementEntity>

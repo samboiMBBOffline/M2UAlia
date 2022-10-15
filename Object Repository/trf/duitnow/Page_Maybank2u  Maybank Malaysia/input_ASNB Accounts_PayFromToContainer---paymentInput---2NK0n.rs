@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ASNB Accounts_PayFromToContainer---paymentInput---2NK0n</name>
+   <tag></tag>
+   <elementGuidId>af925066-e4d1-4c48-954c-ea0bc79bfc79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PayFromToContainer---paymentInput---2NK0n</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>New Transfer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---JsrKN&quot;]/div[@class=&quot;Transactions---paddingContent---2JL3p&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1zc5G&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[3]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---1fWw2&quot;]/input[@class=&quot;PayFromToContainer---paymentInput---2NK0n&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[3]/div/div[2]/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+   </webElementXpaths>
+</WebElementEntity>

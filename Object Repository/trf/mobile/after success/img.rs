@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a15a90b6-dfa6-43e1-9f57-f308abf396a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/static/icons/edit.svg' and @alt = 'help button icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/icons/edit.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>help button icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row FavouriteSummary---container---3luLq&quot;]/div[@class=&quot;col-xs-12 col-md-8&quot;]/div[1]/div[1]/div[@class=&quot;FavouriteSummary---amount---2TbYZ panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;FavouriteSummary---row---J0nas&quot;]/span[@class=&quot;FavouriteSummary---currency---3hRTn&quot;]/span[@class=&quot;FavouriteSummary---edit---1TtdA&quot;]/span[@class=&quot;Tooltip---labelIcon---1EYzu undefined&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/span[2]/span/span/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='help button icon']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+   </webElementXpaths>
+</WebElementEntity>

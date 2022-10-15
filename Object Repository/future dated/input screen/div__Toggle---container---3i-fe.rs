@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__Toggle---container---3i-fe</name>
+   <tag></tag>
+   <elementGuidId>13c1ae0a-a17e-457a-aba3-d9c332ae27f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div[3]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toggle---container---3i-fe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toggle---container---3i-fe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;TransferModal---recurring---2TZDP&quot;]/div[@class=&quot;Toggle---container---3i-fe&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div[3]/div[2]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/following::div[11]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Recurring'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recipient Reference'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

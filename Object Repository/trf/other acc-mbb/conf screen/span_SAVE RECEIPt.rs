@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SAVE RECEIPt</name>
+   <tag></tag>
+   <elementGuidId>f4d8e945-7cd9-47cc-a1f9-05d3fa236da7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;Transactions---stickyConfirmation---2aISx&quot;]/div[1]/div[1]/div[@class=&quot;SaveReceiptNewPayment---saveWrapper---3Q7bZ put-in-modal SaveReceiptNewPayment---slide---2j_l8&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/div[@class=&quot;SaveReceiptNewPayment---save-right-wrapper---2KHN9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-xs-12 SaveReceiptNewPayment---saveReceiptArea---1Dg2Z text-right&quot;]/div[@class=&quot;SaveReceiptNewPayment---input-wrapper---uOsWN&quot;]/a[@class=&quot;btn btn-default&quot;]/span[@class=&quot;SaveReceiptNewPayment---save-btn-icon---2VKWt&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SaveReceiptNewPayment---save-btn-icon---2VKWt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;Transactions---stickyConfirmation---2aISx&quot;]/div[1]/div[1]/div[@class=&quot;SaveReceiptNewPayment---saveWrapper---3Q7bZ put-in-modal SaveReceiptNewPayment---slide---2j_l8&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/div[@class=&quot;SaveReceiptNewPayment---save-right-wrapper---2KHN9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-xs-12 SaveReceiptNewPayment---saveReceiptArea---1Dg2Z text-right&quot;]/div[@class=&quot;SaveReceiptNewPayment---input-wrapper---uOsWN&quot;]/a[@class=&quot;btn btn-default&quot;]/span[@class=&quot;SaveReceiptNewPayment---save-btn-icon---2VKWt&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div[2]/div/a/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

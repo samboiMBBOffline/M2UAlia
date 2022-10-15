@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(Recipient  s bank)_TransferModal---accountNumber---15nOE</name>
+   <tag></tag>
+   <elementGuidId>2eaebb24-c318-465e-9ae6-ba97d048a3e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Maybank / Maybank Islamic']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TransferModal---accountNumber---15nOE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>26</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Maybank / Maybank Islamic</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;TransferModal---recipientWrapper---1B7n3&quot;]/div[1]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/input[@class=&quot;TransferModal---accountNumber---15nOE&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Maybank / Maybank Islamic']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div[2]/div/div/div[2]/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

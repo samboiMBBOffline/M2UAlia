@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mainAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>732acd68-ae65-4d83-924b-2d4b03b501ac</testCaseGuid>
+   <variable>
+      <defaultValue>'512361088207'</defaultValue>
+      <description></description>
+      <id>5d8a20d2-0b14-4a40-871f-7a220f8364de</id>
+      <masked>false</masked>
+      <name>accTo_alia</name>
+   </variable>
+   <variable>
+      <defaultValue>'512361088207'</defaultValue>
+      <description></description>
+      <id>c27ab161-f04b-460c-aedc-46dd6b3f2a9b</id>
+      <masked>false</masked>
+      <name>accTo</name>
+   </variable>
+   <variable>
+      <defaultValue>'999'</defaultValue>
+      <description></description>
+      <id>48eabcb4-c40e-42a9-b71c-fdda71799d9e</id>
+      <masked>false</masked>
+      <name>trfAmt</name>
+   </variable>
+</TestCaseEntity>

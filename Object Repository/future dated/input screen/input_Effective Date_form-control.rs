@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Effective Date_form-control</name>
+   <tag></tag>
+   <elementGuidId>60f11d4b-a631-4e04-8f1e-64e4d2c7f081</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@placeholder = 'DD/MM/YYYY' and @type = 'text'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'DD/MM/YYYY' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>DD/MM/YYYY</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>12/10/2022</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/div[1]/div[@class=&quot;Datepicker---container---3VzFi&quot;]/span[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='12/10/2022']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/span/input[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'DD/MM/YYYY' and @type = 'text']</value>
+   </webElementXpaths>
+</WebElementEntity>
